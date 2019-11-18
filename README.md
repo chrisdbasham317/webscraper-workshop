@@ -1,9 +1,7 @@
-// Go to pizza hut website
-// Click on view all deals
-// Click on big dinner box deal
-// Click on delivery
-// Enter street address
-// Enter City
-// Enter State
-// Enter Zip
-// Click Find a store
+// Go to super hero connection project heroku page
+// Click on battle
+// Select combatant 1
+// Select combatant 2
+// Click on begin battle
+// Click to find out winner
+// Check to see full run through occured
